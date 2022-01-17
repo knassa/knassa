@@ -21,7 +21,7 @@ import org.testng.annotations.AfterMethod;
 public class Aspire_Test 
 {	
 	private WebDriver driver;
-	public String partid ="Test_Product2409";
+	public String partid ="Test_Product_xyz";
 	
 	
 	@BeforeTest
