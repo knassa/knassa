@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-17T18:25:37 IST" name="Default suite" finished-at="2022-01-17T18:26:10 IST" duration-ms="32917">
+    <groups>
+    </groups>
+    <test started-at="2022-01-17T18:25:37 IST" name="Default test" finished-at="2022-01-17T18:26:10 IST" duration-ms="32917">
+      <class name="Package1.Aspire_Test">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Package1.Aspire_Test@694abbdc]" started-at="2022-01-17T18:25:37 IST" name="beforeMethod" finished-at="2022-01-17T18:25:42 IST" duration-ms="5402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Login()[pri:0, instance:Package1.Aspire_Test@694abbdc]" started-at="2022-01-17T18:25:42 IST" name="Login" finished-at="2022-01-17T18:25:44 IST" duration-ms="1808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="endSession()[pri:0, instance:Package1.Aspire_Test@694abbdc]" started-at="2022-01-17T18:25:44 IST" name="endSession" finished-at="2022-01-17T18:25:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endSession -->
+        <test-method signature="create_new_product()[pri:0, instance:Package1.Aspire_Test@694abbdc]" started-at="2022-01-17T18:25:44 IST" name="create_new_product" finished-at="2022-01-17T18:26:10 IST" duration-ms="25659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_new_product -->
+        <test-method is-config="true" signature="endSession()[pri:0, instance:Package1.Aspire_Test@694abbdc]" started-at="2022-01-17T18:26:10 IST" name="endSession" finished-at="2022-01-17T18:26:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endSession -->
+      </class> <!-- Package1.Aspire_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
